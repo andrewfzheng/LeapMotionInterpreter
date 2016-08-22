@@ -95,11 +95,11 @@ class PyIGTLink(SocketServer.TCPServer):
                 self.message_queue.append(message)  # copy.deepcopy(message))
             while wait and len(self.message_queue) > 0:
                 time.sleep(0.001)
-        else:
-            if len(self.message_queue) > 0:
-                with self.lock_server_thread:
-                    self.message_queue = collections.clear()
-        return True
+        # else:
+        #     if len(self.message_queue) > 0:
+        #         with self.lock_server_thread:
+        #              self.message_queue = collections.clear()
+        # return True
 
     def _signal_handler(self, signum):
         if signum == signal.SIGTERM or signum == signal.SIGINT:
@@ -425,14 +425,14 @@ LeapController.enable_gesture(Leap.Gesture.TYPE_KEY_TAP)
 LeapController.enable_gesture(Leap.Gesture.TYPE_SCREEN_TAP)
 LeapController.enable_gesture(Leap.Gesture.TYPE_SWIPE)
 LeapController.config.set("Gesture.Circle.MinRadius", 3.2)
-LeapController.config.set("Gesture.Circle.MinArc", 1)
-LeapController.config.save()
+LeapController.config.set("Gesture.Circle.MinArc", 3)
 LeapController.config.set("Gesture.KeyTap.MinDownVelocity", 40.0)
 LeapController.config.set("Gesture.KeyTap.HistorySeconds", .2)
 LeapController.config.set("Gesture.KeyTap.MinDistance", 1.0)
 LeapController.config.save()
 
 def dataPackager(LeapController, server):
+    finger_names = ['Thumb', 'Index', 'Middle', 'Ring', 'Pinky']
     state_names = ['STATE_INVALID', 'STATE_START', 'STATE_UPDATE', 'STATE_END']
     frame = LeapController.frame()
     if server.is_connected():
@@ -440,7 +440,7 @@ def dataPackager(LeapController, server):
             hand = frame.hands[0]
             if len(hand.fingers.extended()) >= 1:
                 name = "Leap Motion Data"
-                data = ("fingercount: %i, confidence: %f/1" % (len(hand.fingers.extended()), hand.confidence))
+                data = ("fingers: %i, confidence: %f/1" % (len(hand.fingers.extended()), hand.confidence))
                 string_message = StringMessage(data, name)
                 server.add_message_to_send_queue(string_message)
                 for gesture in frame.gestures():
