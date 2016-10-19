@@ -2,61 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0105a23f-18f1-4ef2-9b48-ab271acfff17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/.idea/Slicer Module.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (4).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (5).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category (6).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_category.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_foregroundopacity (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_foregroundopacity (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_foregroundopacity (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_foregroundopacity (4).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_foregroundopacity.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_layout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_overview (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_overview (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_overview (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_overview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sceneview (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sceneview (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sceneview (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sceneview (4).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sceneview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sliceview (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sliceview (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sliceview (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_sliceview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_volumesetselection (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_volumesetselection (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_volumesetselection (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_volumesetselection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_windowlevel (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_windowlevel (2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_windowlevel (3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_windowlevel (4).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/Leap Motion GUI/GUI_windowlevel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/LeapIGTLink.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/Leap.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/Leap.lib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/Leap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapCSharp.NET3.5.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapCSharp.NET4.0.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapCSharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapJava.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapPython.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/msvcp120.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/msvcr120.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LeapMotionInterpreter/LeapMotionInterpreter.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LeapLink.iml" afterPath="$PROJECT_DIR$/.idea/LeapLink.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeapLink.iws" />
@@ -74,12 +19,15 @@
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapMotionIntegrator.coverage" NAME="LeapMotionIntegrator Coverage Results" MODIFIED="1471351741078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Leap_pyIGTLink" />
     <SUITE FILE_PATH="coverage/LeapMotionInterpreter$LeapIGTLink__2_.coverage" NAME="LeapIGTLink (2) Coverage Results" MODIFIED="1476800227651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapLink.coverage" NAME="LeapLink Coverage Results" MODIFIED="1469022101162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Leap_pyIGTLink" />
+    <SUITE FILE_PATH="coverage/LeapMotionInterpreter$LeapIGTLink__1_.coverage" NAME="LeapIGTLink (1) Coverage Results" MODIFIED="1476891851976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapIGTLink" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapMotionInterpreter.coverage" NAME="LeapMotionInterpreter Coverage Results" MODIFIED="1471010163194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapIGTLink__2_.coverage" NAME="LeapIGTLink (2) Coverage Results" MODIFIED="1471376246005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$testing.coverage" NAME="testing Coverage Results" MODIFIED="1469735715968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapIGTLink__3_.coverage" NAME="LeapIGTLink (3) Coverage Results" MODIFIED="1471368740988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapIGTLink__4_.coverage" NAME="LeapIGTLink (4) Coverage Results" MODIFIED="1471369247040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapIGTLink__1_.coverage" NAME="LeapIGTLink (1) Coverage Results" MODIFIED="1471362498292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapIGTLink" />
+    <SUITE FILE_PATH="coverage/LeapMotionInterpreter$LeapMotionInterpreter.coverage" NAME="LeapMotionInterpreter Coverage Results" MODIFIED="1476891879231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeapMotionInterpreter$Leap.coverage" NAME="Leap Coverage Results" MODIFIED="1476891339706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapIGTLink/lib_win" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1471276752000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Leap_Motion_SDK_Windows_2.3.1/LeapDeveloperKit_2.3.1+31549_win/LeapSDK/samples" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapMotionInterpreter__1_.coverage" NAME="LeapMotionInterpreter (1) Coverage Results" MODIFIED="1468704582713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeapMotionInterpreter" />
     <SUITE FILE_PATH="coverage/LeapIGTLink_py$LeapIGTLink.coverage" NAME="LeapIGTLink Coverage Results" MODIFIED="1471354773676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -96,8 +44,18 @@
       <file leaf-file-name="LeapMotionInterpreter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="2292">
+              <caret line="627" column="0" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeapIGTLink.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeapIGTLink/LeapIGTLink.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -136,11 +94,12 @@
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="C:/Python27/Scripts/LeapIGTLink/setup.py" />
         <option value="$PROJECT_DIR$/LeapIGTLink/setup.py" />
-        <option value="$PROJECT_DIR$/LeapIGTLink/LeapIGTLink.py" />
         <option value="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/LeapIGTLink.py" />
         <option value="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapIGTLink.py" />
         <option value="C:/Program Files/Slicer 4.5.0-1/lib/Slicer-4.5/qt-scripted-modules/Charting.py" />
         <option value="$PROJECT_DIR$/LeapMotionInterpreter/LeapMotionInterpreter.py" />
+        <option value="$PROJECT_DIR$/LeapIGTLink/LeapIGTLink.py" />
+        <option value="$PROJECT_DIR$/LeapMotionInterpreter.py" />
       </list>
     </option>
   </component>
@@ -181,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,13 +158,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapMotionInterpreter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapMotionInterpreter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapIGTLink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapMotionInterpreter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapMotionInterpreter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeapIGTLink" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib_win" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Slicer/slicer_motor_interface/slicer_motor_interface.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -217,25 +226,7 @@
       <recent name="C:\Users\Andy Zheng\Downloads\Slicer\slicer_motor_interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LeapIGTLink (2)">
-    <configuration default="false" name="LeapIGTLink" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeapLink" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeapIGTLink.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.LeapMotionInterpreter">
     <configuration default="false" name="LeapIGTLink (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,24 +263,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="LeapIGTLink (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LeapLink" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapIGTLink.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="LeapIGTLink (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,6 +277,42 @@
       <module name="LeapLink" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Leap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeapIGTLink/lib_win" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeapLink" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeapIGTLink/lib_win/Leap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LeapMotionInterpreter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LeapLink" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeapMotionInterpreter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -517,19 +526,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeapIGTLink" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeapIGTLink (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeapIGTLink (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeapIGTLink (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeapIGTLink (4)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeapIGTLink (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeapIGTLink (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeapIGTLink (4)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Leap" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeapMotionInterpreter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeapIGTLink (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeapIGTLink (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeapIGTLink (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeapIGTLink (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeapIGTLink" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeapMotionInterpreter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeapIGTLink (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Leap" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeapIGTLink (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeapIGTLink (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -547,6 +556,14 @@
       <option name="presentableId" value="Default" />
       <updated>1468417073921</updated>
     </task>
+    <task id="LOCAL-00001" summary="Delete extra file">
+      <created>1476890959134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476890959134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -560,26 +577,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="464" y="23" width="976" height="807" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24795082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24795082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.48447895" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36782902" sideWeight="0.51552105" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.4955654" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29810297" sideWeight="0.48447895" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.4955654" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29810297" sideWeight="0.48447895" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988827" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.48447895" order="6" side_tool="false" content_ui="tabs" />
@@ -590,9 +607,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.4955654" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29265538" sideWeight="0.48447895" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29810297" sideWeight="0.48447895" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.4955654" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2488889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24795082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -612,6 +629,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete extra file" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -707,45 +728,54 @@
     <entry file="file://C:/Python27/Scripts/LeapIGTLink.py" />
     <entry file="file://$USER_HOME$/Downloads/Leap_Motion_SDK_Windows_2.3.1/LeapDeveloperKit_2.3.1+31549_win/LeapSDK/samples/Sample.py" />
     <entry file="file://C:/Python27/Scripts/LeapIGTLink/setup.py" />
-    <entry file="file://$PROJECT_DIR$/LeapIGTLink/lib_win/Leap.py" />
-    <entry file="file://$PROJECT_DIR$/LeapIGTLink/LeapIGTLink.py" />
     <entry file="file://$PROJECT_DIR$/LeapIGTLink/setup.py" />
-    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/Leap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/Leap.py" />
     <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/lib_win/LeapIGTLink.py" />
     <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink.py" />
     <entry file="file://C:/Program Files/Slicer 4.5.0-1/lib/Slicer-4.5/qt-scripted-modules/Charting.py" />
     <entry file="file://C:/Program Files/Slicer 4.5.0-1/lib/Slicer-4.5/qt-scripted-modules/CompareVolumes.py" />
     <entry file="file://$USER_HOME$/Downloads/Slicer/slicer_motor_interface/slicer_motor_interface.py" />
     <entry file="file://$PROJECT_DIR$/../Leap_pyIGTLink/LeapMotionIntegrator.py" />
-    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/LeapIGTLink.py">
+    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapIGTLink/LeapIGTLink.py" />
+    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapMotionInterpreter.py" />
+    <entry file="file://$PROJECT_DIR$/LeapIGTLink/lib_win/Leap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="96">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter/LeapMotionInterpreter.py">
+    <entry file="file://$PROJECT_DIR$/LeapIGTLink/LeapIGTLink.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="216" column="116" selection-start-line="216" selection-start-column="28" selection-end-line="216" selection-end-column="116" />
+        <state relative-caret-position="192">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeapMotionInterpreter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="2292">
+          <caret line="627" column="0" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
